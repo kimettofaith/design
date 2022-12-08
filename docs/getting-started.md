@@ -1,7 +1,7 @@
 ---
 title: Design Basics
 date: 2022-12-07
-slug: getting-started
+slug: design-basics
 
 ---
 ## 01. What is Design?
