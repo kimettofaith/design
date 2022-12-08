@@ -1,5 +1,5 @@
 ---
-title: Design Principles and Fundamentals
+title: Design Basics
 date: 2022-12-07
 slug: getting-started
 
