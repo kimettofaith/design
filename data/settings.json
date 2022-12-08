@@ -4,6 +4,10 @@
       "section": "Design Basics",
       "topics": [
         {
+          "title": "Design Elements",
+          "slug": "design-elements"
+        },
+        {
           "title": "Design Principles",
           "slug": "design-principles"
         },
