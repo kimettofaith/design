@@ -4,16 +4,16 @@
       "section": "Design Basics",
       "topics": [
         {
-          "title": "Design Elements",
-          "slug": "design-elements"
+          "title": "Introduction",
+          "slug": "introduction"
         },
         {
           "title": "Design Principles",
           "slug": "design-principles"
         },
         {
-          "title": "Introduction",
-          "slug": "introduction"
+          "title": "Design Elements",
+          "slug": "design-elements"
         }
       ]
     },
