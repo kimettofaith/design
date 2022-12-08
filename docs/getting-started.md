@@ -4,9 +4,23 @@ date: 2022-12-07
 slug: getting-started
 
 ---
-## What is Jamdocs
+## 01. What is Design?
 
-Jamdocs is a documentation theme for Gridsome, built to spin up quick, beautiful and static documentation sites fast without hassle. Since there is no theming system for Gridsome yet, Jamdocs comes with Gridsome, plug-ins and packages as dependencies.
+In reference to product design, Wikipedia defines design as:
+
+> _A plan or specification for the construction of an object or system or for the implementation of an activity or process_
+
+In simplicity it is a plan to make something.
+
+### What Design is not!
+
+Design is not art.
+
+As per [**Koos Looijesteijn**](https://www.kooslooijesteijn.net/), a brilliant product designer, Art is 
+
+> _Art is a creation of which the main purpose is to convey an emotion._
+
+Don't get it wrong. Design can be art. However its brief goes far beyond that. It is about **function** and looks serving a purpose.
 
 ## Local installation
 
